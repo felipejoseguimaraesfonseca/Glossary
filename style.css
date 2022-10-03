@@ -1,0 +1,14 @@
+dl {
+    font-size: 22px;
+}
+
+a {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+dd {
+    color: rgb(0, 0, 0);
+}
